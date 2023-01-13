@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background: navy;
+    color: white;
+}
+
+.heading-text {
+    font-size: 50px;
+    color: red;
+}
+
+.committees {
+    font-size: 25px;
+    padding-top: -10px;
+}
+
+.legislation-links {
+    font-size: 25px;
+    padding-top: -10px;
+}
